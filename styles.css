@@ -1,0 +1,45 @@
+.description{
+    font-weight: bold;
+    font-size: 25px;
+    margin-top: 40px;
+    margin-left: 50px;
+}
+img{
+    margin-left: 28em;    
+}
+
+.heading{
+    display: flex;
+    justify-content: space-between;
+}
+.rollNo,.name,.title{
+    color: white;
+}
+.container{
+    margin-top: 5em;
+    margin-left: 30em;
+}
+.card h1,p{
+    color: white;
+}
+#fact{
+    display: none;
+    align-items: center;
+    }
+body{
+    background-image:url("https://w0.peakpx.com/wallpaper/163/132/HD-wallpaper-blue-yellow-cubes-yellow-background.jpg");
+    width: 100%;
+    
+    }
+.container .numberTitle{
+    font-size: 40px;
+    font-weight: bold;
+}
+.container .numberPara{
+    font-size: 30px;
+}
+.card-text{
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 20px;
+}
